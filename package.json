@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriBSSE/ES.git"
+  },
+  "keywords": [
+    "EcmaScript"
+  ],
+  "author": "yuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriBSSE/ES/issues"
+  },
+  "homepage": "https://github.com/YuriBSSE/ES#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "nodemon": "^2.0.15"
+  }
+}
